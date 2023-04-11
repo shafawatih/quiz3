@@ -1,0 +1,19 @@
+POST http://localhost:3001/login
+Content-Type: application/json
+
+{
+    "username": "shafa",
+    "password": "12345"
+}
+
+###
+
+POST http://localhost:3001/register
+
+###
+
+GET http://localhost:3001/
+
+###
+
+GET http://localhost:3001/bye
