@@ -17,3 +17,4 @@ GET http://localhost:3001/
 ###
 
 GET http://localhost:3001/bye
+Authorization : Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNoYWZhIiwicGFzc3dvcmQiOiIxMjM0NSIsIm5hbWUiOiJzaGFmYSIsImVtYWlsIjoic2hhZmF3YXRpaDcwMTJAZ21haWwuY29tIiwiaWF0IjoxNjgxMzcxNzQ2LCJleHAiOjE2ODEzNzE4MDZ9.K0_UMPkZlYPcVYCgh_wWrNqUaEoLQMPYlmGvZFwpKwY
